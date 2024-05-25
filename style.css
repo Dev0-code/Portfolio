@@ -13,13 +13,14 @@ body{
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
+    img{
+        justify-content: center;
+        height: 200px;
+        width: 200px;
+    }
 }
 
 .blur{
     background: rgb(0,0,0);
     background: linear-gradient(115deg, rgba(0,0,0,1) 0%, rgba(6,64,17,1) 100%);
-}
-.back{
-    background-color: rgba(0, 0, 0, 0.726); 
-    border-radius: 5%;
 }
