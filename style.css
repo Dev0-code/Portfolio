@@ -22,5 +22,5 @@ body{
 
 .blur{
     background: rgb(0,0,0);
-    background: linear-gradient(115deg, rgba(0,0,0,1) 0%, rgba(6,64,17,1) 100%);
+    background: linear-gradient(to left, rgba(0,0,0,1) 0%, rgba(6,64,17,1) 100%);
 }
